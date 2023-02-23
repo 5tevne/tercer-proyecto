@@ -1,0 +1,18 @@
+h1{color: aquamarine;
+text-align: center;
+font-family: 'Gajraj One', cursive;}
+h2{color:coral;
+text-align: center;}
+
+body{
+    background-image:url(rapy.jpg);
+}
+p{text-align: center;
+  font-family: 'Anton', sans-serif;
+  color: antiquewhite;
+}
+.enfatizar{
+    color: rgba(233, 217, 121, 0.902);
+    text-align: center;
+display: flex;
+justify-content: center;}
